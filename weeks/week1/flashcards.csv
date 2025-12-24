@@ -1,0 +1,53 @@
+"According to the course introduction, what is the simplest definition of computer science?",It is the science of computers.
+"What is the fundamental purpose of science, as described in the course?",Science is about understanding things.
+The course draws an analogy between biology understanding living things and computer science understanding _____.,computers
+"What common devices, besides laptops, are described as being 'in essence computers'?",Phones and tablets.
+"What is the focus of this computer science course, as opposed to being a 'how-to manual'?",It introduces the ideas that computer scientists use to think about and understand computers.
+"What is the primary method of learning promoted by the course, based on the science of the brain?","Active learning through practice, as we do not learn well passively."
+What are the two main forms of practice for learning knowledge mentioned in the course?,Testing yourself and doing quizzes.
+"Besides videos, what other learning resource is described as a 'core part' of the course?",The textbook with its readings.
+What are the main activities for practising the application of knowledge in this course?,Discussions and peer review exercises.
+What is the key skill you learn by giving feedback in peer review exercises?,You learn how to evaluate your own work and the work of others.
+"In the course's peer review activities, what mark scheme do students use to assess each other's work?",The exact same mark scheme that the tutors will use.
+"According to the lecturer's experience, how does student marking in peer reviews typically compare to tutor marking?",Students tend to mark more generously than tutors.
+What is the pass mark for this degree course?,The pass mark is 40 percent.
+What grade range is considered a good T1 grade that most students should aim for by answering questions as expected?,The 60 to 70 percent range.
+"What is required to achieve grades over 70 percent, corresponding to a first-class degree?","You are required to go beyond what is taught in class, for example by doing some independent research."
+What are the two main assessments in this course and what is their weighting?,A coursework (weekly tests) worth 50 percent and a final exam worth 50 percent.
+Why is it claimed that 'nobody understands how a computer works'?,Because the complexity from the highest level (like a web page) down to the quantum physics level is too vast for any single person to comprehend.
+"Computer speed is measured in gigahertz, which represents about a _____ mathematical operations per second.",billion
+What key computer science concept is introduced as the solution to managing the immense complexity of computers?,Abstraction.
+"In the art analogy, which painter's style represents the ideal form of abstraction for computer science?","Amedeo Modigliani, who simplifies a subject to its key features."
+Why are simplified diagrams often used in engineering instead of realistic pictures?,They draw attention to the important features of a mechanism without the confusing detail of a realistic picture.
+Term: Abstraction (in Computer Science),A simplified representation of a piece of technology which emphasises the key details without distracting us with all the complexity.
+"A single video can be represented physically by electrical charges, magnetisation, light pulses, or electromagnetic waves; thinking of it just as 'a video' is an example of what?",An abstraction.
+"What is the most basic abstraction used on a computer, where almost any data can be thought of in this way?",Representing things as numbers.
+What do we call the tiny little squares that make up a computer picture?,Pixels (short for picture elements).
+What are the three primary colours for light used in computer screens?,"Red, green, and blue."
+"How is a single colour typically represented in a computer, based on the primary colours of light?","By three numbers indicating the amount of red, green, and blue."
+"In the layers of abstraction for a video, a grid of pixels forms a picture, and a sequence of pictures forms a _____.",video
+What do we call a set of abstractions where each one is simpler and more abstract than the one below it?,Layers of abstraction.
+"What type of abstraction is needed to think about what a computer *does*, rather than just what it *represents*?","An abstraction of the actions of a computer, called a notional machine."
+Term: Notional Machine,"A simplified, abstract model of how a piece of software or a computer works, focusing on its actions."
+"In the notional machine of a video player, what term describes the indicator for the current position in the video?",The playhead.
+The timeline and playhead together form a _____ _____ of a video player.,notional machine
+What is the most important microchip in a computer that does all the calculations?,"The Central Processing Unit, or CPU."
+What is the function of the Random Access Memory (RAM)?,It is where the computer stores all the data that it is currently working on.
+The fundamental operation of a computer can be described as an interaction between which two components?,The CPU and memory (RAM).
+Describe the basic data flow when editing a sentence in a word processor.,"The sentence is loaded from memory into the CPU, edited, and then written back to memory."
+"When you first open a document, where is it transferred from and to?",It is transferred from the hard disk to RAM.
+"When you type on a keyboard, the characters are sent to the CPU, which combines them with data from _____ and writes the result back to _____.","RAM, RAM"
+What action causes data from a document in RAM to be written to the hard disk?,Saving the document.
+What feature allows data to be copied from memory to a device like a sound card without involving the CPU?,Direct Memory Access (DMA).
+What is the main benefit of using Direct Memory Access (DMA)?,It frees up the CPU to perform other tasks.
+What is the primary reason notional machines are useful for understanding complex systems?,They are useful precisely because they are simple and easy to understand.
+"The quizzes in the course are divided into two types, what are they?",Practice quizzes to help you learn and quizzes that count towards your final mark.
+What must a student do to be well prepared for the coursework and final exam?,"Do all the exercises every week, including quizzes, peer reviews, and discussions."
+"The core of a computer, which runs the instructions that make up computer programs, is the _____.",CPU (Central Processing Unit)
+Why is it stated that just passively watching videos and reading the textbook is not enough to learn effectively?,Because the science of the brain shows we don't learn well passively and need to practise what we learn.
+"In the abstraction of a digital picture, a pixel is a tiny square that has a _____.",colour
+"When discussing layers of abstraction for a video, which abstraction is built directly upon the representation of data as numbers?",The abstraction of pixels and colours.
+For which task would a computer scientist most likely need to think about a video at the pixel level of abstraction?,Designing special effects or image filters.
+For which task would a computer scientist need to think about a video at the number and light pulse level of abstraction?,Designing network protocols to transmit images and video.
+What is the notional machine of a video player built upon?,The abstraction of a video as a sequence of pictures laid out on a timeline.
+"According to the notional machine of a video player, what does hitting 'Play' do?",It automatically moves the playhead forward along the timeline after every image or frame.
